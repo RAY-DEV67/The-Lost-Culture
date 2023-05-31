@@ -45,7 +45,6 @@ export function Shop() {
   return (
     <div className="bg-[#ffffff]">
       <div className="pt-[4rem]"></div>
-      <div className="overlay w-[100vw] fixed top-0 h-[100vh]"></div>
       <div className="relative pizzanova">
         <p className="text-3xl my-[2rem] text-[#1b2b3a] hrp">Shop</p>
         <form

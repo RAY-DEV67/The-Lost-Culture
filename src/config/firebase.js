@@ -30,14 +30,14 @@ import "firebase/compat/storage"
 
 // Your web app's Firebase configuration
 const firebaseApp = firebase.initializeApp( {
-    apiKey: "AIzaSyAIwptdrD9JiE-s7nDdxGXNsq-1b1yyXho",
-    authDomain: "pizzanovar-813b7.firebaseapp.com",
-    projectId: "pizzanovar-813b7",
-    storageBucket: "pizzanovar-813b7.appspot.com",
-    messagingSenderId: "198802671392",
-    appId: "1:198802671392:web:f9e1b0629451c30979f945",
-    measurementId: "G-B6FJR7LXL8"
-  });
+  apiKey: "AIzaSyD47BkJArqLJJYqliqTAZlSPusrROKd18M",
+  authDomain: "blacktitude-2a4ed.firebaseapp.com",
+  projectId: "blacktitude-2a4ed",
+  storageBucket: "blacktitude-2a4ed.appspot.com",
+  messagingSenderId: "923414912517",
+  appId: "1:923414912517:web:d04ce2b6ce6ffb1559866c",
+  measurementId: "G-HMX33TS1VP"
+});
 
 // Initialize Firebase
 const app = firebaseApp;

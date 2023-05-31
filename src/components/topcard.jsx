@@ -121,7 +121,7 @@ export function TopCard(props) {
   };
 
   return (
-    <div className="topcard lg:w-[25vw] w-[42vw] border-y text-[#d9d9d9] border-[#1b2b3a] rounded-[10px]">
+    <div className="topcard lg:w-[25vw] w-[42vw] border-y text-[#1b2b3a] border-[#1b2b3a] rounded-[10px]">
       <div className="relative">
         <img
           src={post.images}

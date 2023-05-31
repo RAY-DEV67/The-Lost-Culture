@@ -158,7 +158,7 @@ export function BuyProduct() {
   }, [index, images.length]);
 
   return (
-    <div className="lg:mt-[7rem] productfont text-[#d9d9d9]">
+    <div className="lg:mt-[7rem] productfont text-[#1b2b3a]">
       <div className="pt-[4rem]"></div>
       <div className="overlay w-[100vw] fixed top-0 h-[100vh]"></div>
       {/* <Topnav /> */}

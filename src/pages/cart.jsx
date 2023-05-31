@@ -73,7 +73,6 @@ export function Cart() {
 
   return (
     <div className="pt-[80px] h-[100vh] text-[#1b2b3a]">
-      <div className="overlay w-[100vw] fixed top-0 h-[100vh]"></div>
       <div className="relative pizzanova">
         {user ? (
           <div className="lg:absolute lg:left-[35%] lg:top-[12%] lg:w-[60%]">
