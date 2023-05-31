@@ -29,11 +29,11 @@ import "firebase/compat/storage"
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
 
-const firebaseAPIKey = process.env.REACT_APP_FIREBASE_API_KEY;
+
 
 // Your web app's Firebase configuration
 const firebaseApp = firebase.initializeApp( {
-  apiKey: firebaseAPIKey,
+  apiKey: "AIzaSyD47BkJArqLJJYqliqTAZlSPusrROKd18M",
   authDomain: "blacktitude-2a4ed.firebaseapp.com",
   projectId: "blacktitude-2a4ed",
   storageBucket: "blacktitude-2a4ed.appspot.com",
